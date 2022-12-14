@@ -17,6 +17,13 @@ const users = [
     firstName: "Harshita",
     lastName: "Jain",
   },
+  {
+    id: 3,
+    username: "vishalj254",
+    password: "test",
+    firstName: "Vishal",
+    lastName: "Jain",
+  },
 ];
 
 /* GET users listing. */
